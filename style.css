@@ -4,7 +4,7 @@ body {
 
 .container {
     width: 630px;
-    height:3000px;
+    height: 3000px;
     margin: auto;
     background: rgb(2, 0, 36);
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
@@ -104,7 +104,7 @@ p {
 
 .gif {
     margin-top: 25px;
-    
+
     width: 630px;
     height: 40px;
     background: rgb(2, 0, 36);
@@ -118,208 +118,230 @@ p {
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
 
-.testimonials{
+.testimonials {
     display: flex;
     flex-direction: column;
     width: 630px;
     height: auto;
     margin: auto;
-    
+
 }
-.testimonial1{
+
+.testimonial1 {
     display: flex;
     margin: auto;
-    width:520px;
-    height:210px;
+    width: 520px;
+    height: 210px;
     border: 0.5px solid grey;
     border-radius: 20px;
     background: linear-gradient(112.4deg, rgb(176, 174, 225) 4.9%, rgb(112, 168, 202) 44.5%);
-   
+
 }
-.video1{
+
+.video1 {
     flex-direction: row-reverse;
-    width:238px;
-    height:200px;   
+    width: 238px;
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 5px;
 }
-.about1{
-    width:200px;
-    height:200px;
+
+.about1 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 60px;
 }
-.testimonial2{
+
+.testimonial2 {
     display: flex;
     margin: auto;
     margin-top: 150px;
-    width:520px;
-    height:210px;
+    width: 520px;
+    height: 210px;
     border: 1px solid grey;
     border-radius: 20px;
     background: linear-gradient(109.6deg, rgb(135, 168, 254) 11.2%, rgb(254, 165, 197) 100.2%);
-    
+
 }
-.about2{
-    height:200px;   
+
+.about2 {
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 25px;
 }
-.video2{
-    width:200px;
-    height:200px;
+
+.video2 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 20px;
-    
-   
+
+
 }
-h2{
+
+h2 {
     color: whitesmoke;
     font-size: 20px;
-    text-align:left;
+    text-align: left;
     margin-left: 10px;
-    margin-top:10px;
+    margin-top: 10px;
     letter-spacing: 2px;
 }
-#para2{
+
+#para2 {
     width: 150px;
     align-content: center;
     color: whitesmoke;
     font-size: 9px;
     letter-spacing: 1px;
-    margin-top: 0px;  
+    margin-top: 0px;
     margin-left: 10px;
 }
-#para3{
+
+#para3 {
     width: 150px;
     align-content: center;
     color: whitesmoke;
     font-size: 9px;
     letter-spacing: 1px;
-    margin-top: 0px;  
+    margin-top: 0px;
     margin-left: 20px;
 }
-#h2two{
+
+#h2two {
     color: whitesmoke;
     font-size: 20px;
-    text-align:left;
+    text-align: left;
     margin-left: 10px;
-    margin-top:10px;
+    margin-top: 10px;
     letter-spacing: 2px;
     margin-left: 20PX;
 }
 
-    
-   
-.testimonial3{
+
+
+.testimonial3 {
     display: flex;
     margin: auto;
-    width:520px;
-    margin-top:150px;
-    height:210px;
+    width: 520px;
+    margin-top: 150px;
+    height: 210px;
     border: 0.5px solid grey;
     border-radius: 20px;
     background: linear-gradient(112.4deg, rgb(176, 174, 225) 4.9%, rgb(112, 168, 202) 44.5%);
-   
+
 }
-.video3{
+
+.video3 {
     flex-direction: row-reverse;
-    width:238px;
-    height:200px;   
+    width: 238px;
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 5px;
 }
-.about3{
-    width:200px;
-    height:200px;
+
+.about3 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 60px;
 }
-.testimonial4{
+
+.testimonial4 {
     display: flex;
     margin: auto;
     margin-top: 150px;
-    width:520px;
-    height:210px;
+    width: 520px;
+    height: 210px;
     border: 1px solid grey;
     border-radius: 20px;
     background: linear-gradient(112.4deg, rgb(176, 174, 225) 4.9%, rgb(112, 168, 202) 44.5%);
-    
+
 }
-.about4{
-    height:200px;   
+
+.about4 {
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 25px;
 }
-.video4{
-    width:200px;
-    height:200px;
+
+.video4 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 20px;
-    
-   
+
+
 }
-.testimonial5{
+
+.testimonial5 {
     display: flex;
     margin: auto;
-    width:520px;
-    height:210px;
+    width: 520px;
+    height: 210px;
     border: 0.5px solid grey;
     border-radius: 20px;
     background: linear-gradient(109.6deg, rgb(135, 168, 254) 11.2%, rgb(254, 165, 197) 100.2%);
     margin-top: 150px;
-   
+
 }
-.video5{
+
+.video5 {
     flex-direction: row-reverse;
-    width:238px;
-    height:200px;   
+    width: 238px;
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 5px;
 }
-.about5{
-    width:200px;
-    height:200px;
+
+.about5 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 60px;
 }
-.testimonial6{
+
+.testimonial6 {
     display: flex;
     margin: auto;
     margin-top: 150px;
-    width:520px;
-    height:210px;
+    width: 520px;
+    height: 210px;
     border: 1px solid grey;
     border-radius: 20px;
     background: linear-gradient(112.4deg, rgb(176, 174, 225) 4.9%, rgb(112, 168, 202) 44.5%);
-    
+
 }
-.about6{
-    height:200px;   
+
+.about6 {
+    height: 200px;
     border-radius: 20px;
-    margin-top:4px;
+    margin-top: 4px;
     margin-left: 25px;
 }
-.video6{
-    width:200px;
-    height:200px;
+
+.video6 {
+    width: 200px;
+    height: 200px;
     border-radius: 20px;
     margin-top: 5px;
     margin-left: 20px;
-    
-   
+
+
 }
-#btn3{
+
+#btn3 {
     margin-left: 30px;
     background-color: rgb(45, 45, 180);
     color: whitesmoke;
@@ -331,3 +353,82 @@ h2{
 
 }
 
+ol li {
+    list-style: none;
+    font-size: 7px;
+    margin-top: 10px;
+    color: rgb(230, 218, 218);
+
+}
+
+.footer {
+    display: flex;
+    background-color: rgb(88, 88, 152);
+}
+
+.Product1 {
+    color: whitesmoke;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+
+}
+
+.Product {
+
+    width: 115px;
+}
+
+.company1 {
+    color: whitesmoke;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+
+}
+
+.company {
+
+    width: 85px;
+}
+
+.resources1 {
+    color: whitesmoke;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+
+}
+
+.resources {
+
+    width: 120px;
+}
+
+.policies1 {
+    color: whitesmoke;
+    font-size: 8px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+
+}
+
+.policies {
+
+    width: 100px;
+}
+
+h5 {
+    color: rgb(230, 218, 218);
+    margin-left: 30px;
+}
+#btn5{
+    
+    background-color: rgb(45, 45, 180);
+    color: whitesmoke;
+    width: 80px;
+    height: 22px;
+    font-size: 8px;
+    margin-left: 400px;
+   
+}
